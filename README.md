@@ -1,1 +1,2 @@
 # softwareTechs
+Exercises for SoftUni.
